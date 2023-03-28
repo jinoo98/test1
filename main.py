@@ -1,4 +1,4 @@
 def print_hi(name):
     print(f'Hi, {name}')
 
-print_hi('전진우')
+print_hi('파이썬')
